@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Emmanuel Onotota
 
-<!--
-**Botboy678/Botboy678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate programmer studying software development with a focus on building scalable, full-stack applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+
+I'm a dedicated developer specializing in **Spring Boot** backend development and **React** frontend technologies. I enjoy building projects that combine robust server-side logic with intuitive user interfaces. My goal is to become a proficient full-stack developer capable of delivering end-to-end solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React
+- TypeScript
+- JavaScript
+- HTML & CSS
+
+### **Backend**
+- Spring Boot
+- Java
+
+### **Database & Tools**
+- MySQL
+- PostgreSQL
+- Git & GitHub
+- REST APIs
+
+---
+
+## 💼 Connect
+
+- 🔗 **LinkedIn:** [Emmanuel Onotota](https://www.linkedin.com/in/emmanuelonotota-bb8b36226)
+- 🌐 **Personal Website:** [mannyonotota.dev](https://mannyonotota.dev)
+
+---
+
+*Feel free to explore my repositories and reach out to collaborate!* 🚀
