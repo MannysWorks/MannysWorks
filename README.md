@@ -1,8 +1,8 @@
 ## Hi there, I'm Emmanuel Onotota ( on-oh-tow-tah)
-Welcome to my GitHub profile! I'm a passionate programmer studying software development with a focus on backend distributed systems.
+Welcome to my GitHub profile! I'm a programmer studying software development with a focus on backend distributed systems.
 
 ## 🔭 About Me
-I'm a dedicated developer specializing in **Spring Boot** backend development and **React** frontend technologies. 
+I'm a developer specializing in **Spring Boot** backend development and **React** frontend technologies. With time I hope to grow into a dev that others can rely on.
 
 ## 🛠️ Tech Stack
 
