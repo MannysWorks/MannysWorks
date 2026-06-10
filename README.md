@@ -30,4 +30,4 @@ I'm a developer specializing in **Spring Boot** backend development and **React*
 - 🌐 **Personal Website:** [mannyonotota.dev](https://mannyonotota.dev)
 
 ---
-*Feel free to explore my repositories and reach out to collaborate!* 🚀
+*Feel free to reach out to collaborate!* 🚀
