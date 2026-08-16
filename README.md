@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=145&section=header&text=Emmanuel%20Onotota&fontSize=42&fontColor=ffffff&fontAlignY=62" width="100%" alt="Emmanuel Onotota header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=145&section=header&text=Emmanuel%20(Manny)%20Onotota&fontSize=42&fontColor=ffffff&fontAlignY=62" width="100%" alt="Emmanuel Onotota header" />
 
 <p align="center">
   <strong>on-oh-tow-tah</strong>
