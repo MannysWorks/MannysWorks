@@ -84,8 +84,8 @@ Outside of development, I work full-time at Xfinity, where I rank among the top 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MannysWorks&show_icons=true&hide_border=false&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=8B949E&border_color=F97316" height="175" alt="Emmanuel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannysWorks&layout=compact&hide_border=false&bg_color=00000000&title_color=F97316&text_color=8B949E&border_color=F97316" height="175" alt="Emmanuel's most used languages" />
+  <img src="./profile/stats.svg" height="175" />
+<img src="./profile/top-langs.svg" height="175" />
 </p>
 
 <p align="center">
