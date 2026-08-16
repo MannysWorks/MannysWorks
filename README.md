@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=145&section=header&text=Emmanuel%20(Manny)%20Onotota&fontSize=42&fontColor=ffffff&fontAlignY=62" width="100%" alt="Emmanuel (Manny) Onotota header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=145&section=header&text=Emmanuel%20Onotota&fontSize=42&fontColor=ffffff&fontAlignY=62" width="100%" alt="Emmanuel Onotota header" />
 
 <p align="center">
   <strong>on-oh-tow-tah</strong>
@@ -18,7 +18,7 @@ Outside of development, I work full-time at Xfinity, where I rank among the top 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F97316&height=2" width="100%" alt="Orange divider" />
 
-## Skills
+## Tech Stack
 
 **Languages**
 
@@ -75,7 +75,7 @@ Outside of development, I work full-time at Xfinity, where I rank among the top 
 
 ## What I'm Working Toward
 
-- Building production-minded full-stack applications and secure REST APIs
+- Building a better version of my spending tracker or trying to learn from the mistakes of it really
 - Deepening my knowledge of system design, distributed systems, cloud infrastructure, and testing
 - Pursuing 2027 Software Engineering internships across backend, full-stack, cloud, platform, infrastructure, and developer tools
 
