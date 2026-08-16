@@ -41,7 +41,6 @@ Outside of development, I work full-time at Xfinity, where I rank among the top 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F97316?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**
 
